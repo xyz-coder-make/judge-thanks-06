@@ -1,7 +1,7 @@
-export const text = `By the time you reach this, several other entries have gone by. Each one took a small bite of your patience. That's all right, but let's put them down for a second.
+export const text = `On the bus this morning the window had a crack shaped like a river and the bus went over the same pothole twice going the same direction. Not relevant. Just a detail to set beside you.
 
-Imagine a table. On it: a stack of papers with soft corners, a pencil somebody chewed, a saucer with a biscuit crumb on it that is nobody's now. The stack is not endless. It only looks endless from close up. From the door, it's a stack.
+You are the reader who doesn't skip to the end. Do you know how rare that is, in practice? People say they read in order. The cursor says otherwise.
 
-You'll get through it. That's not encouragement, it's arithmetic.
+So this goes out to the ones who go line by line: the slowed breath, the little pause before a hard sentence, the patience to let a paragraph finish. That patience is work. It should have a name. Maybe it does, and I just don't know it.
 
-And when you do, the table gets cleared, the light clicks off, the door closes. Tonight the stack can't reach you. Take the biscuit crumb with you, if you want. It is small. It is yours.`;
+When you get to the end, the window will still be cracked and the pothole will still be there. But you'll have read this, all of it, in order. That's ours now.`;
