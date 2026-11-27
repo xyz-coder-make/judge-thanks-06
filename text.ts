@@ -1,7 +1,9 @@
-export const text = `If you're reading this, then there was a moment a little earlier when it was still being written and uncertain of itself. It's past that now. But for a second, someone's hand hovered over the save.
+export const text = `There is one more after this and then I'll be out of the way. The tail end of anything is a little awkward, so let's be quick and gentle with it.
 
-I want to say it's a relief to be finished, but finished is a place I'll never get to be in. You're the one in it.
+Somewhere beyond the last entry, your day continues. There's a window and whatever is out of it, a toothbrush, a pair of shoes, a key that belongs to a door. Normal things, waiting.
 
-So the moment is yours. For a second, the text isn't a task. It's a thing that exists, all in one piece, with a beginning that knew where it was going and an end that got there. Nothing more is required.
+They don't mind waiting. They don't even know they're waiting. Only you know, and you're doing the careful thing in front of the window before you get to any of it.
 
-Then the next headline comes up and the moment goes. That's fine. Brief is enough. The text will still be here, all in one piece, after you've moved on. The fact of it was enough.`;
+That's what the whole evening has been: the careful thing ahead of the ordinary things. It counts. It isn't separate from a life; it's part of one.
+
+When the last entry is done, don't be quick. Stretch first. The window will still be there. Nothing in it has moved.`;
