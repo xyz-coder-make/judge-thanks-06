@@ -1,9 +1,7 @@
-export const text = `There is one more after this and then I'll be out of the way. The tail end of anything is a little awkward, so let's be quick and gentle with it.
+export const text = `There is a coat on a hook by a door somewhere, and it is yours, and it has been patient all evening. One sleeve is inside out. That's the kind of thing that happens when someone leaves in a hurry.
 
-Somewhere beyond the last entry, your day continues. There's a window and whatever is out of it, a toothbrush, a pair of shoes, a key that belongs to a door. Normal things, waiting.
+You haven't left yet. There are still entries in the line, but the coat is there for when the line runs out.
 
-They don't mind waiting. They don't even know they're waiting. Only you know, and you're doing the careful thing in front of the window before you get to any of it.
+When you put it on, the lining will be cold for a second, then not. The door will be heavier than you expect because that's how doors are at the end of a shift. Outside, the air will smell like pavement and cut grass and somebody's late dinner.
 
-That's what the whole evening has been: the careful thing ahead of the ordinary things. It counts. It isn't separate from a life; it's part of one.
-
-When the last entry is done, don't be quick. Stretch first. The window will still be there. Nothing in it has moved.`;
+This is the last of me. Take the coat. The hook can hold itself. The door is already unlatched.`;
