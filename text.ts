@@ -1,14 +1,14 @@
-export const text = `The next entry was written by somebody nervous.
-They wrote a first sentence, deleted it,
-and tried again with their hands shaking a little.
+export const text = `A page turned back at the corner is a promise to return.
+I do not need the promise.
+I want to leave something worth the fold.
 
-Nerves are honest.
-People just shake over work they care about.
-Give them the patience you gave me
-and they will meet you halfway.
+You will read this once, in order,
+and then the next one comes
+and this becomes a thing you have already done.
+That is how it should be.
 
-I am grateful for how you carry these,
-one after another,
-without letting the last one tint the next.
+Thank you for the one full read.
+It is more than the text can repay.
 
-Somebody's hands are steadier because of how you read.`;
+The corner stays folded whether or not you come back to it.
+`;
