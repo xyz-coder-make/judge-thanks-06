@@ -1,7 +1,7 @@
-export const text = `There's a bench about halfway along the path. It has a plaque with a name on it and the name doesn't say what for. A bench can just exist. It doesn't have to justify the plaque.
+export const text = `If you're reading this, then there was a moment a little earlier when it was still being written and uncertain of itself. It's past that now. But for a second, someone's hand hovered over the save.
 
-Halfway is a hard place. The beginning is behind and the end is far off, and there's nothing to look at but more path. That's where benches go.
+I want to say it's a relief to be finished, but finished is a place I'll never get to be in. You're the one in it.
 
-So sit. The wood has been rained on and dried twice this week; it's smooth and a bit gray. Somebody's name is under the seat. It doesn't matter whose. It matters that the bench is here.
+So the moment is yours. For a second, the text isn't a task. It's a thing that exists, all in one piece, with a beginning that knew where it was going and an end that got there. Nothing more is required.
 
-The path continues after this. You'll pick it up. But not before you've let the halfway be halfway. Take off a shoe a second, if the day's been long. Put it back on. Go when you're ready.`;
+Then the next headline comes up and the moment goes. That's fine. Brief is enough. The text will still be here, all in one piece, after you've moved on. The fact of it was enough.`;
