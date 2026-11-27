@@ -1,7 +1,7 @@
-export const text = `Somewhere in the middle of this, a cursor is blinking. It's not mine; mine already went to the end. Yours is the one that moves down the screen at a pace that has nothing to do with hurry.
+export const text = `I don't get to see you read this, which is probably fine. If I did I might hover by the table asking whether everything's all right.
 
-That little block of light is the only clock in the room. It says: still here, still here, still here. I've started listening to it.
+It isn't that kind of meal. It's the toast you make for yourself when the day has run long. One hand on the counter, one hand on the knife, no ceremony. Warm enough. Salted enough. Eaten standing up.
 
-I want the wording to be as unhurried. No rush up the stairs. No tugging at your sleeve. Just the plain sentence and then the next plain sentence, laid out like stepping stones that don't wobble.
+You have a great many of these little meals in a row. Somebody ought to say the counter is wiped and the light is on and the bread came out all right.
 
-When the cursor reaches the last line it will blink once more and wait, and then you'll go. Somebody else's text will start. I hope it's good to you. You've been good to this one.`;
+So: it did. It came out all right. Put your plate down gently when you're done. The kitchen doesn't need anything else from you tonight.`;
