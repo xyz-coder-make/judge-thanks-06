@@ -1,7 +1,7 @@
-export const text = `I don't get to see you read this, which is probably fine. If I did I might hover by the table asking whether everything's all right.
+export const text = `By the time you reach this, several other entries have gone by. Each one took a small bite of your patience. That's all right, but let's put them down for a second.
 
-It isn't that kind of meal. It's the toast you make for yourself when the day has run long. One hand on the counter, one hand on the knife, no ceremony. Warm enough. Salted enough. Eaten standing up.
+Imagine a table. On it: a stack of papers with soft corners, a pencil somebody chewed, a saucer with a biscuit crumb on it that is nobody's now. The stack is not endless. It only looks endless from close up. From the door, it's a stack.
 
-You have a great many of these little meals in a row. Somebody ought to say the counter is wiped and the light is on and the bread came out all right.
+You'll get through it. That's not encouragement, it's arithmetic.
 
-So: it did. It came out all right. Put your plate down gently when you're done. The kitchen doesn't need anything else from you tonight.`;
+And when you do, the table gets cleared, the light clicks off, the door closes. Tonight the stack can't reach you. Take the biscuit crumb with you, if you want. It is small. It is yours.`;
