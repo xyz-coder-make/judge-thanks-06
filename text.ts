@@ -1,5 +1,7 @@
-export const text = `Put a finger in the page if you like. There is no page, but do it anyway. A bookmark is a promise that you'll come back, and you don't have to come back to this one.
+export const text = `Here is the part I nearly cut, because it sounded too plain: I am glad you exist.
 
-The library near where I grew up had a radiator by the window and a sign that said QUIET in letters somebody had gone over twice with a marker. The quiet there was thick and a little dusty. Reading a stack of things in a row feels like that room, maybe: a bench, a radiator, the sense that the person before you left a warm seat.
+Not in a big way. In the way you're glad the shop is open when you need one thing. In the way a handrail is there on stairs. You are a handrail. That is a compliment. Handrails don't get thanked and the stairs would be worse without them.
 
-You are the person who leaves the seat warm. So sit a minute. The radiator ticks. The sign can't tell you anything. The next book is already open.`;
+The plain part is true, so it stays. The rest is arrangement. You'll finish this and go on to another text that might be louder or cleverer or worse. Mine will be behind you, small and standing up straight, not asking you to turn around.
+
+Read the next one well. It has been waiting its turn, same as me.`;
