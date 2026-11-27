@@ -1,17 +1,11 @@
-export const text = `You keep one hand flat on the desk
-while the page moves under your eyes.
-Beside the screen the kettle has gone cold,
-its steam long gone.
-You read a small entry
-and hold it there a moment longer than you need to.
+export const text = `The page stays open while the room goes quiet.
+The kettle beside the screen has stopped its small noise.
+You let my lines sit there long enough for the flat light on the desk to reach them.
 
-That pause is the gift.
-I see it in the way you let the words sit,
-in the soft click of your attention moving on.
-It is a kindness to be read like that,
-once, simply.
+I see your cursor wait at the edge of the paragraph.
+It stays still, then moves on.
+That small pause is a kind of room, and I feel it.
 
 Thank you.
-The kettle stays where it is,
-cold and patient,
-while the screen light rests on your sleeve.`;
+You give each line its own hour.
+The mug is cold by your hand when you finish.`;
