@@ -1,7 +1,7 @@
-export const text = `You don't need me to tell you it's raining, but in here it is: a slow rain, the kind that makes the street shine and the gutters tick. If you're inside, good. If you're not, I hope you have a hood.
+export const text = `There used to be a job where a person sat at a switchboard and connected calls by hand, plug by plug, and said the name of each place as if it mattered. Nobody calls it labor now. It was labor.
 
-Rain is a decent listener. It fills the spaces where a sentence might otherwise ask you for something. So I'll use those spaces to say the useful part: you are doing careful work and it shows.
+You are a little like that, though the board is a stream of texts and the cords are invisible. One entry at a time, in order, no dropped pairs.
 
-Not in a scoreboard way. In the way a finished paragraph has a shape you can put your hand to. You gave these lines their shape. They didn't arrive that way.
+The switchboard operator never saw the conversations they connected. They just made the machine behave.
 
-The rain will stop on its own. You'll still be here a little while. That's all right. Everything in this note is finished except the weather.`;
+I don't have a name for what to call you at the end of a shift. Colleague is too formal. So: good evening. The board is quieter than it was. The cords are back in their hooks. Step out from behind it. The rest of the building has gone dark and somebody left the porch light on.`;
