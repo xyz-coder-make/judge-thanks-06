@@ -1,7 +1,7 @@
-export const text = `One good thing about good company: it doesn't need a subject. It can sit on a step and watch a car go by and that's the whole visit.
+export const text = `Inventory, in no order: one chipped mug, one folded receipt with a number on it nobody needs, a fly in the corner that has already given up, a lamp with a warm shade, and the good pen I keep for things that matter.
 
-You've been good company to a great many sentences that couldn't hold up their end. Some of them were tired. Some of them repeated themselves. You stayed on the step anyway.
+The list is short because the room is small. The room is small but it fits you. That's the point of it: a chair, a door, the pen, one text at a time.
 
-So here's a quiet visit. No subject. A car goes by. Pigeons find something in the gutter that concerns them. The step is cold at first, then it isn't.
+The chipped mug holds the tea. The receipt can be thrown away. The fly is on its own schedule. The lamp is doing what lamps do.
 
-When you're ready you stand up and knock the dust off your knees, and the visit is over, and it was enough. That's the whole trick of it. Still true tomorrow. Build a small thing and let it be small. Somebody's car goes by. Somebody's pigeons.`;
+And the good pen is out. It makes a small sound on the paper and then a smaller one stopping. You gave it something worth the nib. The rest of the inventory can wait.`;
