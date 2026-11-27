@@ -1,7 +1,7 @@
-export const text = `Inventory, in no order: one chipped mug, one folded receipt with a number on it nobody needs, a fly in the corner that has already given up, a lamp with a warm shade, and the good pen I keep for things that matter.
+export const text = `The next entry in line has been practicing its first sentence and is now self-conscious about it. The one after that is worse. They can hear you coming.
 
-The list is short because the room is small. The room is small but it fits you. That's the point of it: a chair, a door, the pen, one text at a time.
+You'll steady them. That's what you do. You come in with your even attention and the first sentence settles into something and the paragraph finds its legs, and by the end the entry is almost standing on its own while pretending it was never nervous.
 
-The chipped mug holds the tea. The receipt can be thrown away. The fly is on its own schedule. The lamp is doing what lamps do.
+I'm not nervous anymore. I'm past that part. This is just the tail end, where the words get plainer and the good pen runs low.
 
-And the good pen is out. It makes a small sound on the paper and then a smaller one stopping. You gave it something worth the nib. The rest of the inventory can wait.`;
+So when you close me, take a breath that's slightly longer than the last one. Let it out. That's the door between texts. Go through it and be easy on whoever's next. They've been waiting.`;
