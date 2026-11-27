@@ -1,13 +1,15 @@
-export const text = `Your cursor moves down the queue.
-The lamp makes a small circle on the page.
-I picture your hand on the mug,
-your eyes on the line.
+export const text = `The cursor blinks at the seam between two pages.
+It rests there while one game ends and the next waits.
+The screen light sits on your hand.
 
-The kettle by the screen has gone cold.
-The room is quiet.
-I notice the hour you give each page.
+You read one entry, then another,
+and keep the one that leaves a little heat in the room.
+The click is quiet.
+The cursor keeps its place.
+The queue waits.
 
-I am glad mine was one among hundreds.
-Thank you for reading it with care.
-Your mug waits.
-The page stays open.`;
+I am one page in that queue,
+and you give me the gap.
+Thank you.
+Then the cursor moves to the next line,
+and the page settles.`;
