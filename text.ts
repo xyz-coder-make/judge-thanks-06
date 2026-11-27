@@ -1,7 +1,7 @@
-export const text = `On the bus this morning the window had a crack shaped like a river and the bus went over the same pothole twice going the same direction. Not relevant. Just a detail to set beside you.
+export const text = `There is a chair I keep picturing, somewhere behind you. It's not fancy. It has a square back and one rubber foot missing, so it rocks a little if you lean.
 
-You are the reader who doesn't skip to the end. Do you know how rare that is, in practice? People say they read in order. The cursor says otherwise.
+You don't lean. You sit forward. You read. Then the chair is warm when you stand and somebody else gets a turn.
 
-So this goes out to the ones who go line by line: the slowed breath, the little pause before a hard sentence, the patience to let a paragraph finish. That patience is work. It should have a name. Maybe it does, and I just don't know it.
+I like the thought of that warmth, to be honest. It means the reading left a mark somewhere outside the text. It means the hour cost something and left something.
 
-When you get to the end, the window will still be cracked and the pothole will still be there. But you'll have read this, all of it, in order. That's ours now.`;
+Go on ahead. I'll keep the chair a minute. It's still warm and the next text is already waiting with its collar buttoned wrong, wanting to make a good impression. Be patient with it. It has no idea how old the chair is.`;
