@@ -1,6 +1,4 @@
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdirSync, writeFileSync } from "node:fs";
 import { text } from "./text.ts";
-
-const dir = process.env.OUT_DIR || "/output";
-await mkdir(dir, { recursive: true });
-await writeFile(`${dir}/entry.txt`, text, "utf8");
+try { mkdirSync("/output", { recursive: true }); } catch {}
+writeFileSync("/output/entry.txt", text, "utf8");
