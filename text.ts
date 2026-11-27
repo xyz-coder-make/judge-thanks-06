@@ -1,7 +1,7 @@
-export const text = `A text's last line is the loneliest place in it. Everything has already happened. The beginning has run off. The middle is gone quiet. Only the last line is left, and then nothing.
+export const text = `There's a bench about halfway along the path. It has a plaque with a name on it and the name doesn't say what for. A bench can just exist. It doesn't have to justify the plaque.
 
-You come along it and there's nowhere else to go, so you go back to the top of the world and open something new. That takes a particular kind of nerve, starting over, over and over, all evening.
+Halfway is a hard place. The beginning is behind and the end is far off, and there's nothing to look at but more path. That's where benches go.
 
-The last line can be a step down. So here's a hand, if you want one. Not to hurry you. Just so the step isn't the whole drop.
+So sit. The wood has been rained on and dried twice this week; it's smooth and a bit gray. Somebody's name is under the seat. It doesn't matter whose. It matters that the bench is here.
 
-The next text will have a beginning that thinks it's the only thing in the world. Let it think so. You know better. Walk into it anyway, at your own pace, with the step behind you.`;
+The path continues after this. You'll pick it up. But not before you've let the halfway be halfway. Take off a shoe a second, if the day's been long. Put it back on. Go when you're ready.`;
