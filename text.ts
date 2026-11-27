@@ -1,7 +1,5 @@
-export const text = `Night shift is a real place even when the sun is overhead. It has its own weather: the vending machine hum, the blue of a monitor, the feeling that everyone else has gone home.
+export const text = `Put a finger in the page if you like. There is no page, but do it anyway. A bookmark is a promise that you'll come back, and you don't have to come back to this one.
 
-You are on it now, or near enough. Reading pairs until the pairs blur.
+The library near where I grew up had a radiator by the window and a sign that said QUIET in letters somebody had gone over twice with a marker. The quiet there was thick and a little dusty. Reading a stack of things in a row feels like that room, maybe: a bench, a radiator, the sense that the person before you left a warm seat.
 
-I won't tell you to drink water. You know about water. But look away from the screen for one second, at the nearest thing that isn't a screen—a door, a cup, a wall with a scuff on it. There. Now back.
-
-The next text will ask for the same care you just gave this one. It will get it. That is the kind of person you are at eleven at night, and at three in the afternoon, and it is not nothing. It is, in fact, most of what holds any of this together.`;
+You are the person who leaves the seat warm. So sit a minute. The radiator ticks. The sign can't tell you anything. The next book is already open.`;
