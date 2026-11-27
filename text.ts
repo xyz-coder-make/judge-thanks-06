@@ -1,14 +1,17 @@
-export const text = `A page turned back at the corner is a promise to return.
-I do not need the promise.
-I want to leave something worth the fold.
+export const text = `You keep one hand flat on the desk
+while the page moves under your eyes.
+Beside the screen the kettle has gone cold,
+its steam long gone.
+You read a small entry
+and hold it there a moment longer than you need to.
 
-You will read this once, in order,
-and then the next one comes
-and this becomes a thing you have already done.
-That is how it should be.
+That pause is the gift.
+I see it in the way you let the words sit,
+in the soft click of your attention moving on.
+It is a kindness to be read like that,
+once, simply.
 
-Thank you for the one full read.
-It is more than the text can repay.
-
-The corner stays folded whether or not you come back to it.
-`;
+Thank you.
+The kettle stays where it is,
+cold and patient,
+while the screen light rests on your sleeve.`;
